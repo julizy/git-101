@@ -1,0 +1,13 @@
+.coming_soon {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: Helvetica;
+	height: 100vh;
+}
+#idol {
+	height: 300px;
+	width: 200px;
+
+}
